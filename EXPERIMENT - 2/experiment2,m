@@ -1,39 +1,3 @@
-aswitha230407
-19BM414---MATLAB-FOR-BIOMEDICAL-ENGINEERS
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security and quality
-Insights
-Files
-Go to file
-t
-T
-EXPERIMENT - 1
-README.md
-experiment1.m
-EXPERIMENT - 2
-README.md
-experiment2.m
-EXPERIMENT - 3
-19BM414---MATLAB-FOR-BIOMEDICAL-ENGINEERS/EXPERIMENT - 2
-/experiment2.m
-aswitha230407
-aswitha230407
-Create experiment2.m
-103af5d
- · 
-38 minutes ago
-19BM414---MATLAB-FOR-BIOMEDICAL-ENGINEERS/EXPERIMENT - 2
-/experiment2.m
-
-Code
-
-Blame
-283 lines (206 loc) · 6.66 KB
 %% EXPERIMENT 2: EEG FREQUENCY BAND ANALYSIS
 % Complete program:
 % 1. Generate simulated EEG input
@@ -317,4 +281,3 @@ fprintf('Dominant relative power = %.2f%%\n', ...
 
 fprintf('========================================\n');
 fprintf('Experiment 2 completed successfully.\n');
-
